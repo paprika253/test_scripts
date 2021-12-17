@@ -1,0 +1,5 @@
+{
+    "first_slave_ws": "ws://127.0.0.1:7777",
+    "second_slave_ws": "ws://127.0.0.1:8888",
+    "third_slave_ws": "ws://127.0.0.1:9999 "
+}

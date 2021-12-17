@@ -1,0 +1,5 @@
+main/node_modules
+main/database.sqlite
+first_slave/database.sqlite
+second_slave/database.sqlite
+third_slave/database.sqlite
